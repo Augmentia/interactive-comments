@@ -1,10 +1,10 @@
 import logo from './logo.svg';
-import './App.css';
+import './index.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1 class="bg-black h-8 w-8">Main Page</h1>
+    <div className="h-screen w-screen bg-slate-100">
+      
     </div>
   );
 }
